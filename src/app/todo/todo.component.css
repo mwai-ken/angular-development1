@@ -1,0 +1,20 @@
+
+.todo-container{
+  width: 80%;
+  height: 40%;
+  margin: 60px 20px ;
+  
+}
+.todo-container input{
+  background: black;
+  color: aliceblue;
+}
+#delete{
+  color: black;
+  background: lightcoral;
+
+}
+#save{
+  color: rgb(218, 46, 23);
+  background: rgb(60, 28, 134);
+}
